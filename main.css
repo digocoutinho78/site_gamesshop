@@ -129,7 +129,8 @@ form button{
     background-color: #182c61;
     color: #fff; 
     border: none;
-    cursor: pointer;   
+    cursor: pointer;  
+    width: 340px; 
 }
 
 form button:hover{
